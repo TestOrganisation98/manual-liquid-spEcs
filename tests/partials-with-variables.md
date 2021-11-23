@@ -6,7 +6,7 @@ bar:
 ---
 # Partials with variables :octocat:
 
-## Example scenario
+## Example scenario :octocat:
 
 Check if partials with variables are working correctly: 
 
