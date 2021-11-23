@@ -1,4 +1,4 @@
-This example partial will check if context variables are present:
+This example partial will check if context variables are present: 🦦
 
 * user: {{ user.id }}, {{ user.name }}
 * project: {{ project.id }}, {{ project.name }}, {{ project.url }}
