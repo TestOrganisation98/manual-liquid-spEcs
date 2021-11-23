@@ -4,7 +4,7 @@ foo: bar
 bar:
   baz: foo
 ---
-# Partials with variables
+# Partials with variables :octocat:
 
 ## Example scenario
 
